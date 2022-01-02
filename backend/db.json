@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "Livro",
+      "price": "29.99",
+      "id": 11
+    },
+    {
+      "name": "Caderno",
+      "price": "15",
+      "id": 12
+    }
+  ]
+}
